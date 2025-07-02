@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'am $${\color{red}Ankita \space Mondal,}$$ pursuing $${\color{lightgreen}Bsc.}$$ in $${\color{lightgreen}Computer \space Science,}$$ at  $${\color{red}Mankar \space College,}$$. Currently, i'm learning programming languages. I believe in the power of collaboration. Always eager to learn new technologies and share knowledge. Let's code together & build something amazing together!
+### I'am $${\color{red}Ankita \space Mondal,}$$ pursuing $${\color{lightgreen}Bsc.}$$ in $${\color{lightgreen}Computer \space Science,}$$ at  $${\color{red}Mankar \space College}$$. Currently, i'm learning programming languages. I believe in the power of collaboration. Always eager to learn new technologies and share knowledge. Let's code together & build something amazing together!
 
 <div align="center"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><div align="center">
 
