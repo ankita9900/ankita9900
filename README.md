@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankita9900&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
 
 
  📫 How to reach me **missmondala10@gmail.com**
