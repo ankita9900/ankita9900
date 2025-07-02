@@ -2,7 +2,7 @@
 ### I'am Ankita Mondal, pursuing B.Sc. in Computer Science at Mankar College. Currently, i'm learning programming languages. I believe in the power of collaboration. Always eager to learn new technologies and share knowledge. Let's code together & build something amazing together!
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
 
