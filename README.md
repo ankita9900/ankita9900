@@ -3,7 +3,6 @@
 
 <div align="center"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ankita9900&theme=darkhub)
 
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
