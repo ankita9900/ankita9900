@@ -8,7 +8,7 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
 
 
- 📫 How to reach me **ankitamondal2k25@gmail.com**
+ 📫 How to reach me :- **ankitamondal2k25@gmail.com**
 
 <p align="left">
 </p>
