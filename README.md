@@ -3,6 +3,8 @@
 
 <div align="center"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><div align="center">
 
+<a align="center" href="https://www.buymeacoffee.com/Ankita89186"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ankita89186&button_colour=d22d5e&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ankita9900&theme=dracula)
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
