@@ -1,5 +1,5 @@
 #  MY INFO : 
-## Hi there 👋
+## $${\color{lightblue} Hi \space\space  there \space 👋}$$
 ### I'm $${\color{lightgreen} Ankita \space Mondal.}$$ I'm a passionate Computer Science student with a strong interest in technology and innovation. Currently, I'm learning programming languages. I believe in the power of collaboration. Always eager to learn new technologies and share knowledge. Let's code together & build something amazing together!
 
 <div align="center"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><div align="center">
