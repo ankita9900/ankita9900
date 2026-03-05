@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"><div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ankita9900&theme=darkhub)
+
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=ankita9900&label=Profile%20views&color=0e75b6&style=flat" alt="ankita9900" /> </p>
 
 
@@ -51,3 +51,4 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankita9900&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
